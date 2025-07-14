@@ -1,8 +1,5 @@
 # Towards Training-Free Open-World Classification with 3D Generative Models
 
----
-
-## Coming Soon
 
 ---
 
